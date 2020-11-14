@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Site',
+  title: "Fred's Site",
   tagline: 'The tagline of my site',
   url: 'https://fengdong94.github.io/',
   baseUrl: '/',
@@ -9,16 +9,22 @@ module.exports = {
   projectName: 'fengdong94.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: "Fred's Site",
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          to: 'docs/guide/doc1',
+          activeBasePath: 'docs/guide',
+          label: 'Guide',
+          position: 'left',
+        },
+        {
+          to: 'docs/notes/doc4',
+          activeBasePath: 'docs/notes',
+          label: 'Notes',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
