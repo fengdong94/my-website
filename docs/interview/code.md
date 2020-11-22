@@ -1,6 +1,6 @@
 ---
 id: code
-title: 代码实现篇
+title: 手写代码篇
 ---
 
 ## 防抖和节流
@@ -39,6 +39,23 @@ function throttle(fn, delay) {
     }
   };
 };
+```
+
+## 数组扁平化
+
+```js
+const flatten = (arr, res = []) => {
+  // forEach 遍历数组会自动跳过空元素，for of 不会
+  arr.forEach((item) => {
+    if (Array.isArray(item)) {
+      flatten(item, res);
+    } else {
+      res.push(item);
+    }
+  });
+
+  return res;
+}
 ```
 
 ## Promise.all

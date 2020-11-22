@@ -6,5 +6,5 @@ module.exports = {
   notesSidebar: {
     cc: ['notes/doc4']
   },
-  interviewSidebar: ['interview/code']
+  interviewSidebar: ['interview/code', 'interview/algorithm']
 };
