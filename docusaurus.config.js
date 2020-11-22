@@ -27,6 +27,12 @@ module.exports = {
           label: 'Notes',
           position: 'left',
         },
+        {
+          to: 'docs/interview/code',
+          activeBasePath: 'docs/interview',
+          label: 'Interview',
+          position: 'left',
+        },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
