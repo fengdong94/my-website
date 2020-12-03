@@ -93,7 +93,61 @@ Promise.all = function(promises) {
 ## Promise
 
 ```js
-function Promise() {
+function Promise(fn) {
+  let data = undefined;
+  let reason = undefined;
+  let status = 'pending';
+  const succCbs = [];
+  const failCbs = [];
 
+  this.then = function(fulfilled, rejected) {
+    return new Promise(function(resolve, reject) {
+      function succ(value) {
+        const ret =
+          (typeof fulfilled === 'function') ? fulfilled(value) || value;
+
+        if (ret && typeof ret.then === 'function') { // 判断then中的返回的是否是promise对象，如果是注册then方法
+          ret.then(function(value) {
+            resolve(value);
+          });
+        } else {
+          resolve(ret);
+        }
+      }
+
+      function fail(reason) {
+        reason =
+          (typeof rejected === 'function') ? rejected(reason) || reason;
+        reject(reason);
+      }
+
+      if (status === 'pending') {
+        succCbs.push(succ);
+        failCbs.push(fail);
+      } else if (status === 'fulfilled') {
+        succ(data);
+      } else {
+        fail(reason);
+      }
+    };
+  }
+
+  function resolve(value) {
+    setTimeout(function() { // 加入延时，确保同步的resolve在then之后执行（这里是宏任务和正常promise有区别）
+      status = 'fulfilled';
+      data = value;
+      succCbs.forEach((cb) => cb(value));
+    }, 0);
+  }
+
+  function reject(value) {
+    setTimeout(function() { // 加入延时，确保同步的resolve在then之后执行（这里是宏任务和正常promise有区别）
+      status = 'rejected';
+      reason = value;
+      failCbs.forEach((cb) => cb(value));
+    }, 0);
+  }
+
+  fn(resolve, reject);
 };
 ```
