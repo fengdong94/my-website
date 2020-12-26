@@ -151,3 +151,9 @@ function Promise(fn) {
   fn(resolve, reject);
 };
 ```
+
+## aplly bind
+
+## 事件 观察者
+
+## 数组去重
