@@ -15,24 +15,24 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        {
-          to: 'docs/guide/doc1',
-          activeBasePath: 'docs/guide',
-          label: 'Guide',
-          position: 'left',
-        },
-        {
-          to: 'docs/notes/doc4',
-          activeBasePath: 'docs/notes',
-          label: 'Notes',
-          position: 'left',
-        },
-        {
-          to: 'docs/interview/code',
-          activeBasePath: 'docs/interview',
-          label: 'Interview',
-          position: 'left',
-        },
+        // {
+        //   to: 'docs/guide/doc1',
+        //   activeBasePath: 'docs/guide',
+        //   label: 'Guide',
+        //   position: 'left',
+        // },
+        // {
+        //   to: 'docs/notes/doc4',
+        //   activeBasePath: 'docs/notes',
+        //   label: 'Notes',
+        //   position: 'left',
+        // },
+        // {
+        //   to: 'docs/interview/code',
+        //   activeBasePath: 'docs/interview',
+        //   label: 'Interview',
+        //   position: 'left',
+        // },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
