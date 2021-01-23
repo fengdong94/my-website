@@ -19,6 +19,16 @@ module.exports = {
   developSidebar: [
     'develop/trick',
     {
+      "You Don't Know JS": [
+        'develop/ydkjs/scope-closure',
+        'develop/ydkjs/this-proto',
+        'develop/ydkjs/type-grammar',
+        'develop/ydkjs/async-performance',
+        'develop/ydkjs/start',
+        'develop/ydkjs/es6',
+      ],
+    },
+    {
       '函数式编程指北': [
         'develop/fp/chapter1',
         'develop/fp/chapter2',
