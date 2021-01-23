@@ -1,20 +1,18 @@
 module.exports = {
   notesSidebar: [
     'notes/style-guide',
-  ],
-  englishSidebar: [
     {
       'Essential Grammar In Use': [
-        'english/eeiu/present-tense',
-        'english/eeiu/past-tense',
-        'english/eeiu/present-perfect',
-        'english/eeiu/passive-voice',
-        'english/eeiu/verb-forms',
-        'english/eeiu/future-tense',
-        'english/eeiu/modal-verb',
-        'english/eeiu/there-it',
-        'english/eeiu/auxiliary-verb',
-        'english/eeiu/question',
+        'notes/eeiu/present-tense',
+        'notes/eeiu/past-tense',
+        'notes/eeiu/present-perfect',
+        'notes/eeiu/passive-voice',
+        'notes/eeiu/verb-forms',
+        'notes/eeiu/future-tense',
+        'notes/eeiu/modal-verb',
+        'notes/eeiu/there-it',
+        'notes/eeiu/auxiliary-verb',
+        'notes/eeiu/question',
       ]
     }
   ],

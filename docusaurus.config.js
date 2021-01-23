@@ -22,12 +22,6 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/english/eeiu/present-tense',
-          activeBasePath: 'docs/english',
-          label: 'English',
-          position: 'left',
-        },
-        {
           to: 'docs/develop/trick',
           activeBasePath: 'docs/develop',
           label: 'Develop',
