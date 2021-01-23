@@ -16,21 +16,21 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/guide/doc1',
-          activeBasePath: 'docs/guide',
-          label: 'Guide',
-          position: 'left',
-        },
-        {
-          to: 'docs/notes/doc4',
+          to: 'docs/notes/style-guide',
           activeBasePath: 'docs/notes',
           label: 'Notes',
           position: 'left',
         },
         {
-          to: 'docs/interview/code',
-          activeBasePath: 'docs/interview',
-          label: 'Interview',
+          to: 'docs/english/eeiu/present-tense',
+          activeBasePath: 'docs/english',
+          label: 'English',
+          position: 'left',
+        },
+        {
+          to: 'docs/develop/trick',
+          activeBasePath: 'docs/develop',
+          label: 'Develop',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
