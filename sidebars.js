@@ -29,6 +29,13 @@ module.exports = {
       ],
     },
     {
+      '浏览器工作原理与实践': [
+        'develop/broswer/broswer',
+        'develop/broswer/js',
+        'develop/broswer/v8',
+      ],
+    },
+    {
       '函数式编程指北': [
         'develop/fp/chapter1',
         'develop/fp/chapter2',
