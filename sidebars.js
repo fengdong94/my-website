@@ -36,7 +36,7 @@ module.exports = {
         'develop/broswer/event-loop',
         'develop/broswer/page',
         'develop/broswer/network',
-        'develop/broswer/security',
+        'develop/broswer/secure',
         'develop/broswer/addon',
       ],
     },

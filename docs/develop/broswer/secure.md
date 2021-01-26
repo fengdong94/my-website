@@ -1,5 +1,5 @@
 ---
-id: security
+id: secure
 title: 浏览器安全
 ---
 
