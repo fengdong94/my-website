@@ -66,6 +66,15 @@ module.exports = {
       ],
     },
     {
+      'Flutter 核心技术与实战': [
+        'develop/flutter/start',
+        'develop/flutter/dart',
+        'develop/flutter/flutter',
+        'develop/flutter/flutter-deep',
+        'develop/flutter/to-be-continud',
+      ],
+    },
+    {
       interview: [
         'develop/int/code',
         'develop/int/algorithm',
