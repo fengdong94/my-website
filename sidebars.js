@@ -41,6 +41,18 @@ module.exports = {
       ],
     },
     {
+      '玩转 webpack': [
+        'develop/webpack/chapter1',
+        'develop/webpack/chapter2',
+        'develop/webpack/chapter3',
+        'develop/webpack/chapter4',
+        'develop/webpack/chapter5',
+        'develop/webpack/chapter6',
+        'develop/webpack/chapter7',
+        'develop/webpack/chapter8',
+      ],
+    },
+    {
       '函数式编程指北': [
         'develop/fp/chapter1',
         'develop/fp/chapter2',
