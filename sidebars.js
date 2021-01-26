@@ -33,6 +33,11 @@ module.exports = {
         'develop/broswer/broswer',
         'develop/broswer/js',
         'develop/broswer/v8',
+        'develop/broswer/event-loop',
+        'develop/broswer/page',
+        'develop/broswer/network',
+        'develop/broswer/security',
+        'develop/broswer/addon',
       ],
     },
     {
