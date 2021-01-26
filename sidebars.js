@@ -19,6 +19,11 @@ module.exports = {
   developSidebar: [
     'develop/trick',
     {
+      "设计模式之美": [
+        'develop/dp/preparation',
+      ],
+    },
+    {
       "You Don't Know JS": [
         'develop/ydkjs/scope-closure',
         'develop/ydkjs/this-proto',
@@ -41,7 +46,7 @@ module.exports = {
       ],
     },
     {
-      '玩转 webpack': [
+      '玩转 Webpack': [
         'develop/webpack/chapter1',
         'develop/webpack/chapter2',
         'develop/webpack/chapter3',
