@@ -21,6 +21,14 @@ module.exports = {
     {
       "设计模式之美": [
         'develop/dp/preparation',
+        'develop/dp/object',
+        'develop/dp/principle',
+        'develop/dp/refactor',
+        'develop/dp/half-summary',
+        'develop/dp/create',
+        'develop/dp/structure',
+        'develop/dp/behavior',
+        'develop/dp/summary',
       ],
     },
     {
