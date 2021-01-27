@@ -19,6 +19,28 @@ module.exports = {
   developSidebar: [
     'develop/trick',
     {
+      "数据结构与算法之美": [
+        {
+          '入门篇': ['develop/algorithm/complexity']
+        },
+        {
+          '基础篇': [
+            'develop/algorithm/array',
+            'develop/algorithm/linked-list',
+            'develop/algorithm/stack',
+            'develop/algorithm/queue',
+            'develop/algorithm/recursive',
+            'develop/algorithm/sort',
+            'develop/algorithm/linear-sort',
+            'develop/algorithm/sort-optimize',
+            'develop/algorithm/binary-search',
+            'develop/algorithm/skip-list',
+            'develop/algorithm/hash-table',
+          ]
+        }
+      ]
+    },
+    {
       "设计模式之美": [
         'develop/dp/preparation',
         'develop/dp/object',
