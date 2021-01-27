@@ -101,6 +101,15 @@ module.exports = {
       ],
     },
     {
+      'Node.js开发实战': [
+        'develop/node/chapter1',
+        'develop/node/chapter2',
+        'develop/node/chapter3',
+        'develop/node/chapter4',
+        'develop/node/chapter5',
+      ],
+    },
+    {
       'Flutter 核心技术与实战': [
         'develop/flutter/start',
         'develop/flutter/dart',
