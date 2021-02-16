@@ -14,7 +14,8 @@ module.exports = {
         'notes/eeiu/auxiliary-verb',
         'notes/eeiu/question',
       ]
-    }
+    },
+    'notes/investment'
   ],
   developSidebar: [
     'develop/trick',
