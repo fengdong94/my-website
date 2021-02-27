@@ -1,6 +1,6 @@
 ---
 id: question
-title: 疑问句(to be continud)
+title: 疑问句
 ---
 
 ## is it ...?  have you ...?  do they ...? 等（疑问句1）
@@ -56,3 +56,55 @@ A: I don't know. I haven't eaten there yet.
 B: She's very good. We learn a lot.
 
 ## What ... ?    Which ... ?    How ... ?  （疑问句4）
+
+### What
+
+what + 名词（What color ... ? / What kind ...? 等）：
+
+- What color is your car?
+- What time is it?
+- What kind of job do you want?
+
+what 后可不带名词：
+
+- What's your favourite color?
+- What do you want to do tonight?
+
+### Which
+
+which + 名词（人或物）：
+
+- Which train did you catch - the 9.50 or the 10.30?
+- Which doctor did you see?
+
+which 后不带名词时指代物，不指代人：
+
+- Which is bigger - Canada or Australia?
+
+who 指代人，后面不带名词：
+
+- Who is taller - Joe or Gary?
+
+### what 与 which 比较
+
+which 表示可能的选择较少（3、4个）：
+
+- We can go this way or that way. Which way shall we go?
+- Which color do you prefer, pink or yellow?
+
+what 表示的范围则更广：
+
+- What sort of music do you like?（在所有种类的音乐中）
+- What color do you prefer?
+
+### how
+
+- How was the party last night?
+- How do you usually go to wark?
+
+可以用 how + 形容词/副词（how tall / how old等）：
+
+- How often do you use your car?
+- How big is your house?
+
+## How long does it take ... ?
