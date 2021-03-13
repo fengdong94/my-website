@@ -13,6 +13,7 @@ module.exports = {
         'notes/eeiu/there-it',
         'notes/eeiu/auxiliary-verb',
         'notes/eeiu/question',
+        'notes/eeiu/indirect-speech',
       ]
     },
     'notes/investment'

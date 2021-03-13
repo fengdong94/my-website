@@ -108,3 +108,43 @@ what 表示的范围则更广：
 - How big is your house?
 
 ## How long does it take ... ?
+
+How long does it take from ... to ...?
+
+- How long does it take by plane from New Your to Washington?
+- It takes an hour (by plane from New Your to Washington).
+
+How long does it take to do something?
+
+- How long does it take to cross the Atlantic by ship?
+- I came by train.    Did you? How long did it take (to get here)?
+- How long will it take to get from here to the hotel?
+- It takes a long time to learn language.
+- It doesn't take long to cook an omelette.
+- It won't take long to fix the computer.
+
+How long does it take you to do something?
+
+- It will take me an hour to cook dinner.
+- How long will it take me to learn to drive?
+
+## Do you know where ...? Idon't konw what ... 等
+
+Where is Paul? = Do you know where Paul is?
+
+- How old is Nicole? = Can you tell me how old Nicole is?
+- What time is it? = Do you know what time it is?
+- How much is this camera? -- I don't know how much this camera is.
+
+带有 do/does/did 的疑问句（一般现在时与一般过去时）
+
+- Where does he live? = Do you know where he lives?
+- How do aeroplanes fly? = Do you know how aeroplanes fly?
+- Why did she go home? -- I don't know why she went home.
+
+Is ...? / Do ...? / Can ...? 等句式的疑问句（一般疑问句）：
+
+- Is jack at home? = Do you know if/whether Jack is at home?
+- Can brian swim? -- I don't know if/whether Brain can swim.
+- Have they got a car? = Do you know if/whether they've got a car?
+- Did anybody see you? -- I don't know if/whether anybody saw me.
