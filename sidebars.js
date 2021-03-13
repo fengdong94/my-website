@@ -14,6 +14,7 @@ module.exports = {
         'notes/eeiu/auxiliary-verb',
         'notes/eeiu/question',
         'notes/eeiu/indirect-speech',
+        'notes/eeiu/ing',
       ]
     },
     'notes/investment'
